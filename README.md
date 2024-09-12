@@ -14,9 +14,7 @@ Este projeto é um aplicativo de notas construído utilizando HTML e CSS básico
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
-< align="center">
   ![Change color page](https://github.com/user-attachments/assets/e8eb63ed-4d5d-4b35-85e5-a03ba4864be1)
-</>
 
 <br>
 
